@@ -1,0 +1,7 @@
+U:\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.pdb
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\Project1.exe
+\\jaguar\students\gfontsayeras\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\Project1.pdb
